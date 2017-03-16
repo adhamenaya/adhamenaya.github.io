@@ -9,7 +9,7 @@ layout: default
 
 Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
 
-## Solo is useful if...
+## Experince
 
 * You want to create an "about me" page from a single markdown file and host it under a custom domain name.
 * You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
@@ -18,13 +18,13 @@ Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ell
 
 This page itself is built with Solo. It's generated from [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
 
-## Usage
+## Education
 
 First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Solo from its [GitHub Repository](https://github.com/chibicode/solo). Start Jekyll and you should see this page up and running.
 
 **The main file you'll be editing is `index.md`**. This becomes the content for the page.
 
-### Other Files
+### Courses
 
 * Edit `_config.yml` to change the site's title and description.
 * Edit `_includes/head.html` to add custom code to `<head>`.
@@ -50,7 +50,7 @@ Solo supports lists, `<hr>`s, `<table>`s,
 
 Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fork) and use the "upstream" strategy described on [this page](https://help.github.com/articles/fork-a-repo) to keep Solo up to date.
 
-## Author
+## Projects
 
 Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/chibicode)/[G+](https://plus.google.com/110325199858284431541?rel=author)).
 
