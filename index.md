@@ -2,7 +2,8 @@
 layout: default
 ---
 
-[Adham Enaya](http://adhamenaya.github.io) is a self-motivated person, architect by nature, software engineer by practice, leader by experience.  He has an experience in android software development since 2010. He has worked as SAP expert at UNRWA since 2013, in abap development, SAPUI5, SAP Fiori UX and SAP mobile. Besides that, Adham has a strong background about machine learning and big data analysis applications.
+[Adham Enaya](http://adhamenaya.github.io) is a self-motivated person, architect by nature, software engineer by practice and leader by experience.  He has an experience in android software development since 2010. He has worked as SAP expert at UNRWA since 2013, in abap development, SAPUI5, SAP Fiori UX and SAP mobile. Besides that, Adham has a strong background about machine learning and big data analysis applications.
+
 <iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
   allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
 
