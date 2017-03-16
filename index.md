@@ -10,6 +10,9 @@ layout: default
 Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
 
 ## Experince
+#### SAP Expert
+#### Android Development
+#### Machine Learning & data analytics
 
 * You want to create an "about me" page from a single markdown file and host it under a custom domain name.
 * You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
